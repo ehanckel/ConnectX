@@ -1,9 +1,8 @@
-package cpsc2150.extendedConnectX.tests;
+package cpsc2150.extendedConnects.cpsc2150.extendedConnectX.tests;
 
-import cpsc2150.extendedConnectX.models.BoardPosition;
-import cpsc2150.extendedConnectX.models.GameBoard;
-import cpsc2150.extendedConnectX.models.GameBoardMem;
-import cpsc2150.extendedConnectX.models.IGameBoard;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.BoardPosition;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.GameBoardMem;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.IGameBoard;
 
 import org.junit.Test;
 

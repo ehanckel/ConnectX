@@ -1,4 +1,4 @@
-package cpsc2150.extendedConnectX.models;
+package cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models;
 
 /*GROUP MEMBER NAMES AND GITHUB USERNAMES SHOULD GO HERE
 

@@ -1,4 +1,4 @@
-package cpsc2150.extendedConnectX.models;
+package cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

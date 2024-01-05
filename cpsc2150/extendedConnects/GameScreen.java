@@ -1,15 +1,14 @@
-package cpsc2150.extendedConnects;
-import cpsc2150.extendedConnectX.models.BoardPosition;
-import cpsc2150.extendedConnectX.models.GameBoard;
-import cpsc2150.extendedConnectX.models.GameBoardMem;
-import cpsc2150.extendedConnectX.models.IGameBoard;
+package cpsc2150.extendedConnects.cpsc2150.extendedConnects;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.GameBoard;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.GameBoardMem;
+import cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.IGameBoard;
 
 import java.io.ObjectInput;
 import java.util.Objects;
 import java.util.Scanner;
 
-//import static cpsc2150.extendedConnectX.models.GameBoard.MAX_COL;
-//import static cpsc2150.extendedConnectX.models.GameBoard.MAX_ROW;
+//import static cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.GameBoard.MAX_COL;
+//import static cpsc2150.extendedConnects.cpsc2150.extendedConnectX.models.GameBoard.MAX_ROW;
 import static java.lang.System.exit;
 
 /*GROUP MEMBER NAMES AND GITHUB USERNAMES SHOULD GO HERE
